@@ -1,11 +1,11 @@
-### Academic Year 2025--2026
+### Academic Year 2025-2026
 
 This repository collects coding materials for the Politecnico di Milano
 course:
 
 **"Laboratory of Nearable Technology for Health Data Science"**\
-held by\
-- Prof. Andrea Moglia\
+held by
+- Prof. Andrea Moglia
 - Prof. Marco Paracchini
 
 A.Y. 2025/2026
