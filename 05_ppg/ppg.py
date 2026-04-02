@@ -8,7 +8,7 @@ import matplotlib.dates as mdates
 from cms50d import CMS50D
 
 
-monitor = CMS50D(port="HID")
+monitor = CMS50D(port="COM14")
 monitor.connect()
 monitor.start_live_acquisition()
 
